@@ -1,6 +1,6 @@
 # Learning to Integrate Diffusion ODEs by Averaging the Derivatives
 
-**NeurIPS 2025**
+This is the official implementation for the NeurIPS 2025 paper.
 
 **Wenze Liu**, **Xiangyu Yue**
 
