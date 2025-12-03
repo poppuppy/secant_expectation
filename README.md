@@ -1,12 +1,12 @@
 # Learning to Integrate Diffusion ODEs by Averaging the Derivatives
 
-This is the official implementation for the NeurIPS 2025 paper.
-
 **Wenze Liu**, **Xiangyu Yue**
 
 MMLab, The Chinese University of Hong Kong
 
 [![Paper](https://img.shields.io/badge/arXiv-PDF-b31b1b)](https://arxiv.org/abs/2505.14502)
+
+This is the official implementation for the NeurIPS 2025 paper.
 
 ## Installation
 
