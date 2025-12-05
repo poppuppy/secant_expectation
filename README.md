@@ -36,9 +36,7 @@ Our method involves fine-tuning or distilling from a pretrained SiT model. You n
 
 1. **Download the SiT Checkpoint:**
    Download `SiT-XL-2-256.pt` from the official SiT repository link:
-   [Download Link (Dropbox)](https://www.dl.dropboxusercontent.com/scl/fi/as9oeomcbub47de5g4be0/SiT-XL-2-256.pt?rlkey=uxzxmpicu46coq3msb17b9ofa&dl=0)
-
-and move the downloaded SiT-XL-2-256.pt to `pretrained/`.
+   [Download Link (Dropbox)](https://www.dl.dropboxusercontent.com/scl/fi/as9oeomcbub47de5g4be0/SiT-XL-2-256.pt?rlkey=uxzxmpicu46coq3msb17b9ofa&dl=0), and move the downloaded SiT-XL-2-256.pt to `pretrained/`.
 
 2. **Convert Checkpoint:**
    Run the transfer script in `pretrained` to convert the weights for dual time-point input support:
