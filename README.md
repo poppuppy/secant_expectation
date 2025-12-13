@@ -12,8 +12,8 @@ This is the official implementation for the NeurIPS 2025 paper.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/poppuppy/secant_expectation.git
-   cd secant_expectation
+   git clone https://github.com/poppuppy/secant-expectation.git
+   cd secant-expectation
    ```
 
 2. Install the required dependencies.
