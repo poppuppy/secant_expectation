@@ -64,7 +64,7 @@ bash test.sh
 
 ## Checkpoints
 
-We provide trained checkpoints for different settings (SDEI, STEE, SDEE, STEE, various step counts) on [Hugging Face](https://huggingface.co/poppuppy/secant_expectation).
+We provide trained checkpoints for different settings (SDEI, STEE, SDEE, STEE, various step counts) on [Hugging Face](https://huggingface.co/poppuppy/secant-expectation).
 
 ## Acknowledgments
 
